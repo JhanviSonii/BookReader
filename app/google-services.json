@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845746639868",
+    "firebase_url": "https://bookreader-fbdd7.firebaseio.com",
+    "project_id": "bookreader-fbdd7",
+    "storage_bucket": "bookreader-fbdd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845746639868:android:556f28004f727fc94b5879",
+        "android_client_info": {
+          "package_name": "com.example.bookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845746639868-30hp5rl14k39vdbsgpis78qaaucf8m8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookreader",
+            "certificate_hash": "644cfbd04ab11208adf7f88c75ea326455f0fbeb"
+          }
+        },
+        {
+          "client_id": "845746639868-6ehtcmk5ffqfgl171vg9g4qqe0fpaiv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ZIKvsSR8C0TMbz__SXh8i1vSfPVbwdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845746639868-6ehtcmk5ffqfgl171vg9g4qqe0fpaiv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
